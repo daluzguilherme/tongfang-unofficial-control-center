@@ -29,6 +29,7 @@ class Controller(DeviceHandler):
             "cyan":     "00FFFF",
             "pink":     "FF00C8",
             "purple":   "8800C8",
+            "black":    "000000",
         }
         
         color = colors[color]
